@@ -1,0 +1,50 @@
+ 
+  .datatable-editing-demo .editable-cells-table td.p-cell-editing {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  
+  #separador{
+    margin-top: 10px;
+  }
+  
+  .Total {
+    float: right;
+  }
+  
+  #total {
+    float: right;
+    width: 25%;
+  }
+  
+  .card-header{
+    background-color: #F9B7FF;
+  }
+  .card-body{
+    background-color: #fff5fb;
+  }
+  .text-right{
+    text-align: right;
+  }
+  
+  .ModalBody{
+    background-color: #a4b0be;
+  }
+  .ModalHeader{
+    background-color: #747d8c;
+  }
+  .ModalFooter{
+    background-color: #747d8c;
+  }
+  
+  .card-title{
+    float: left;
+  }
+  .btn-outline-dark{
+    float: right;
+  }
+  .btn-outline-primary{
+  float: inline-end;
+  width: 1278px;
+  }
+  
