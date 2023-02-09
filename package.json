@@ -2,7 +2,7 @@
     "name": "sakai-react",
     "version": "8.0.1-SNAPSHOT",
     "private": false,
-    "homepage": "http://KevinMoya.github.io/ProyectoFinalMovil",
+    "homepage": "https://kevinmoya.github.io/ProyectoFinalMovil",
     "scripts": {
         "predeploy": "npm run build",
         "deploy": "gh-pages -d build",
