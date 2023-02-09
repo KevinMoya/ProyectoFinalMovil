@@ -1,5 +1,6 @@
 {
-    "name": "sakai-react",
+    "name": "proyectofinalmovil",
+    "uses": "actions/setup-node@v2",
     "version": "8.0.1-SNAPSHOT",
     "private": false,
     "homepage": "https://kevinmoya.github.io/ProyectoFinalMovil",
